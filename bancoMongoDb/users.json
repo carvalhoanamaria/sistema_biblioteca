@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "643d952b41d516042b002051"
+  },
+  "name": "Ana Sousa",
+  "email": "ana@gmail.com",
+  "password": "12",
+  "document": "1181915984684",
+  "profile": "admin",
+  "createAt": {
+    "$date": "2023-04-17T18:51:12.399Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d974821dd8fc199ea48c6"
+  },
+  "name": "Maria",
+  "email": "maria@gmail.com",
+  "password": "1",
+  "document": "11819159846847",
+  "profile": "operator",
+  "createAt": {
+    "$date": "2023-04-17T19:00:20.594Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f200ac047cedabb08cf9a"
+  },
+  "name": "Julia",
+  "email": "maria@gmail.com",
+  "password": "$2b$10$C7PC02qlUI2D0tIsQObTo.rpPEWZIiFyNPBaTmZIU04uyM0u842I6",
+  "document": "27573573",
+  "profile": "operator",
+  "createAt": {
+    "$date": "2023-04-18T22:49:31.366Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f216304d9ca60fd886b43"
+  },
+  "name": "Brenda",
+  "email": "bre@gmail.com",
+  "password": "$2b$10$mjJvGdB8HYe1v/ZHgSC/oONsOpCoum/9Lipzmb.cKeZsH3LRfcBwC",
+  "document": "275735777",
+  "profile": "admin",
+  "createAt": {
+    "$date": "2023-04-18T22:58:22.351Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f2f41a18fdcff172c29b9"
+  },
+  "name": "Carol",
+  "email": "carol@gmail.com",
+  "password": "$2b$10$7lCmjLgmqB3xn6dtQS/i9eCXaOYMu6CBgjbuJVmS1SGHEBcOJ6DiK",
+  "document": "2757357277",
+  "profile": "operator",
+  "createAt": {
+    "$date": "2023-04-18T23:58:01.559Z"
+  },
+  "__v": 0
+}]

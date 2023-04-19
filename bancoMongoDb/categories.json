@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "643da9d3d0366a60a8625d7b"
+  },
+  "description": "Desenvolvimento Pessoal",
+  "code": 2,
+  "createAt": {
+    "$date": "2023-04-17T20:17:07.856Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da9e6d0366a60a8625d7d"
+  },
+  "description": "Desenvolvimento de Software",
+  "code": 3,
+  "createAt": {
+    "$date": "2023-04-17T20:17:07.856Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643daa08d0366a60a8625d7f"
+  },
+  "description": "Financas",
+  "code": 1,
+  "createAt": {
+    "$date": "2023-04-17T20:17:07.856Z"
+  },
+  "__v": 0
+}]

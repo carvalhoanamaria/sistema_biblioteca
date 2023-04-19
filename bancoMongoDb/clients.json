@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "643def20ff2394e1637b6127"
+  },
+  "name": "Mari",
+  "email": "mari@gmail.com",
+  "password": "1234567",
+  "document": "2757357332",
+  "address": "Rua Paulista",
+  "createAt": {
+    "$date": "2023-04-18T01:15:07.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643def48ff2394e1637b6129"
+  },
+  "name": "Fernanda",
+  "email": "fer@gmail.com",
+  "password": "12345677",
+  "document": "275735733212",
+  "address": "Rua Joao",
+  "createAt": {
+    "$date": "2023-04-18T01:15:07.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643def6bff2394e1637b612b"
+  },
+  "name": "Carla",
+  "email": "carla@gmail.com",
+  "password": "123456774",
+  "document": "275325733212",
+  "address": "Rua Palmeiras",
+  "createAt": {
+    "$date": "2023-04-18T01:15:07.430Z"
+  },
+  "__v": 0
+}]

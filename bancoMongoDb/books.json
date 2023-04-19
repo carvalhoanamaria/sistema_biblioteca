@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "643dd4b2d381b739ceb4c86f"
+  },
+  "description": "Aprendendo TypeScript: Melhore Suas Habilidades de Desenvolvimento web",
+  "code": 1,
+  "author": "Josh Goldberg",
+  "summary": "O TypeScript conquistou o universo JavaScript. Identificado em pesquisas com desenvolvedores como uma das linguagens de crescimento mais rápido e mais populares do mundo, o TypeScript é amplamente usado em empresas voltadas para o consumidor, assim como para outros tipos de negócios em todo o planeta e é frequentemente considerado responsável por ajudar no desenvolvimento de aplicações web em larga escala.",
+  "year": 2022,
+  "publishing_company": " Novatec Editora; 1ª edição (15 setembro 2022)",
+  "ISBN": {
+    "$numberLong": "9786586057997"
+  },
+  "category": {
+    "$oid": "643da9e6d0366a60a8625d7d"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:17:28.752Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dd76bcf9829e044f0b115"
+  },
+  "description": "Aprendendo Node: Usando JavaScript no Servidor",
+  "code": 2,
+  "author": "Shelley Powers",
+  "summary": "Reúna o conhecimento de programação que você já usa no navegador e empregue no servidor com o Node! Aprenda a criar aplicações em rede de alto desempenho e plenamente escalonáveis nesta plataforma baseada em JavaScript. O conteúdo deste livro é bastante prático, “mão na massa”, e fará com que o programador de JavaScript, acostumado a lidar apenas com processamento no navegador, domine com maestria os fundamentos do Node no servidor.",
+  "year": 2017,
+  "publishing_company": "Novatec Editora; 1ª edição (24 janeiro 2017)",
+  "ISBN": {
+    "$numberLong": "8575225405"
+  },
+  "category": {
+    "$oid": "643da9e6d0366a60a8625d7d"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:32:36.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dd7f5cf9829e044f0b117"
+  },
+  "description": "A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade",
+  "code": 3,
+  "author": "Morgan Housel",
+  "summary": "O sucesso financeiro tem menos a ver com a sua inteligência e muito mais a ver com o seu comportamento. E a forma como alguém se comporta é uma coisa difícil de se ensinar, mesmo para pessoas bastante inteligentes.",
+  "year": 2021,
+  "publishing_company": "HarperCollins; 1ª edição (15 março 2021)",
+  "ISBN": {
+    "$numberLong": "6555111100"
+  },
+  "category": {
+    "$oid": "643daa08d0366a60a8625d7f"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:32:36.781Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ddf0ac53cb22ce09f3cae"
+  },
+  "description": "Pai Rico, Pai Pobre",
+  "code": 4,
+  "author": "Robert T. Kiyosaki",
+  "summary": "A escola prepara as crianças para o mundo real?  Essa é a primeira pergunta com a qual o leitor se depara neste livro.  O recado é ousado e direto: boa formação e notas altas não bastam para assegurar o sucesso de alguém. O mundo mudou; a maioria dos jovens tem cartão de crédito, antes mesmo de concluir os estudos, e nunca teve aula sobre dinheiro, investimentos, juros etc.",
+  "year": 2018,
+  "publishing_company": "Alta Books; Edição atualizada e ampliada (5 setembro 2018)",
+  "ISBN": {
+    "$numberLong": "8550801488"
+  },
+  "category": {
+    "$oid": "643daa08d0366a60a8625d7f"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ddf43c53cb22ce09f3cb0"
+  },
+  "description": "Do Mil ao Milhão. Sem Cortar o Cafezinho",
+  "code": 5,
+  "author": "Thiago Nigro",
+  "summary": "Em seu primeiro livro, Thiago Nigro, criador da plataforma O Primo Rico, ensina aos leitores os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais. Por meio de dados e de sua própria experiência como investidor e assessor, Nigro mostra que a riqueza é possível para todos – basta estar disposto a aprender e se dedicar.",
+  "year": 2018,
+  "publishing_company": "HarperCollins; 1ª edição (10 novembro 2018)",
+  "ISBN": {
+    "$numberLong": "8595083274"
+  },
+  "category": {
+    "$oid": "643daa08d0366a60a8625d7f"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ddf85c53cb22ce09f3cb2"
+  },
+  "description": "O homem mais rico da Babilônia",
+  "code": 6,
+  "author": " George S Clason ",
+  "summary": "Com mais de dois milhões de exemplares vendidos no mundo todo, O homem mais rico da Babilônia é um clássico sobre como multiplicar riqueza e solucionar problemas financeiros. Baseando-se nos segredos de sucesso dos antigos babilônicos ― os habitantes da cidade mais rica e próspera de seu tempo ―, George S..",
+  "year": 2017,
+  "publishing_company": "HarperCollins; 1ª edição (4 agosto 2017)",
+  "ISBN": {
+    "$numberLong": "8595081530"
+  },
+  "category": {
+    "$oid": "643daa08d0366a60a8625d7f"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ddfffc53cb22ce09f3cb4"
+  },
+  "description": "Quem pensa enriquece",
+  "code": 7,
+  "author": "Napoleon Hill",
+  "summary": "9º livro mais vendido de todos os tempos, que influencia líderes e empreededores em todo o mundo, agora em uma edição especial atualizada para o século XXI.O clássico best-seller sobre o sucesso agora anotado e acrescido de exemplos modernos, comprovando que a filosofia da realização pessoal de Napoleon Hill permanece atual e ainda orienta aqueles que são bem-sucedidos. Um livro que vai mudar não só o que você pensa, vai mudar o modo como você pensa.",
+  "year": 2018,
+  "publishing_company": "Citadel; 1ª edição (28 maio 2018)",
+  "ISBN": {
+    "$numberLong": "8568014542"
+  },
+  "category": {
+    "$oid": "643daa08d0366a60a8625d7f"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643de066c53cb22ce09f3cb6"
+  },
+  "description": "Programação web com Node e Express: Beneficiando-se da Stack JavaScript",
+  "code": 8,
+  "author": "Ethan Brown",
+  "summary": "Construa aplicações web dinâmicas com o Express, um componente-chave da stack de desenvolvimento Node/JavaScript. Nesta edição atualizada, o autor Ethan Brown ensina os fundamentos do Express 5 percorrendo o desenvolvimento de uma aplicação. Este guia prático aborda de tudo, da renderização no lado do servidor ao desenvolvimento de uma API adequada para uso em aplicativos de página única (SPAs).",
+  "year": 2020,
+  "publishing_company": "Novatec Editora; 1ª edição (15 abril 2020)",
+  "ISBN": {
+    "$numberLong": "6586057086"
+  },
+  "category": {
+    "$oid": "643da9e6d0366a60a8625d7d"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643de0dcc53cb22ce09f3cb8"
+  },
+  "description": "Arquitetura limpa: O guia do artesão para estrutura e design de software",
+  "code": 9,
+  "author": "Robert C. Martin",
+  "summary": "As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistemas de software. Agora, aproveitando o sucesso dos seus best-sellersCódigo Limpo e O Codificador Limpo, o lendário artesão de software Robert C. Martin (“Uncle Bob”) vai revelar essas regras e ajudar o leitor a aplicá-las.",
+  "year": 2019,
+  "publishing_company": "Alta Books; 1ª edição (23 abril 2019)",
+  "ISBN": {
+    "$numberLong": "8550804606"
+  },
+  "category": {
+    "$oid": "643da9e6d0366a60a8625d7d"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643de12fc53cb22ce09f3cba"
+  },
+  "description": "Estruturas de Dados e Algoritmos com JavaScript",
+  "code": 10,
+  "author": "Loiane Groner",
+  "summary": "Uma estrutura de dados é uma maneira particular de organizar dados em um computador com o intuito de usar os recursos de modo eficaz. As estruturas de dados e os algoritmos são a base de todas as soluções para qualquer problema de programação. Com este livro, você aprenderá a escrever códigos complexos e eficazes usando os recursos mais recentes da ES 2017.",
+  "year": 2019,
+  "publishing_company": "Novatec Editora; 2ª edição (11 março 2019)",
+  "ISBN": {
+    "$numberLong": "8575226932"
+  },
+  "category": {
+    "$oid": "643da9e6d0366a60a8625d7d"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643de17fc53cb22ce09f3cbc"
+  },
+  "description": "12 regras para a vida: um antídoto para o caos",
+  "code": 11,
+  "author": "Loiane Groner",
+  "summary": "Aclamado psicólogo clínico, Jordan Peterson tem influenciado a compreensão moderna sobre a personalidade e, agora, se transformou em um dos pensadores públicos mais populares do mundo, com suas palestras sobre tópicos que variam da bíblia, às relações amorosas e à mitologia, atraindo dezenas de milhões de espectadores. Em uma era de mudanças sem precedentes e polarização da política, sua mensagem franca e revigorante sobre o valor da responsabilidade individual e da sabedoria ancestral tem",
+  "year": 2018,
+  "publishing_company": " Alta Books; 1ª edição (30 abril 2018)",
+  "ISBN": {
+    "$numberLong": "8550802751"
+  },
+  "category": {
+    "$oid": "643da9d3d0366a60a8625d7b"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643de1c7c53cb22ce09f3cbe"
+  },
+  "description": "Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus.",
+  "code": 12,
+  "author": " Wendy Campos",
+  "summary": "Pequenas mudanças, resultados impressionantes. Não importa quais sejam seus objetivos, Hábitos Atômicos oferece um método eficaz para você se aprimorar ― todos os dias. James Clear, um dos mais expoentes especialistas na criação de hábitos, revela as estratégicas práticas que o ensinarão, exatamente, como criar bons hábitos, abandonar os maus e fazer pequenas mudanças de comportamento que levam a",
+  "year": 2019,
+  "publishing_company": "Alta Life; 1ª edição (8 agosto 2019)",
+  "ISBN": {
+    "$numberLong": "8550807567"
+  },
+  "category": {
+    "$oid": "643da9d3d0366a60a8625d7b"
+  },
+  "createAt": {
+    "$date": "2023-04-17T23:44:37.973Z"
+  },
+  "__v": 0
+}]

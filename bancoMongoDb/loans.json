@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "643eafa1082fc4f4ec13fbfe"
+  },
+  "client": {
+    "$oid": "643def20ff2394e1637b6127"
+  },
+  "book": {
+    "$oid": "643dd4b2d381b739ceb4c86f"
+  },
+  "data_emprestimo": {
+    "$date": "2023-03-18T14:56:27.985Z"
+  },
+  "data_devolucao": {
+    "$date": "2023-04-09T14:56:27.986Z"
+  },
+  "multa": 9,
+  "status": "emprestado",
+  "createAt": {
+    "$date": "2023-04-18T14:56:27.999Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f14b7ad31bb1e7b8f095e"
+  },
+  "client": {
+    "$oid": "643def48ff2394e1637b6129"
+  },
+  "book": {
+    "$oid": "643ddf0ac53cb22ce09f3cae"
+  },
+  "data_emprestimo": {
+    "$date": "2023-04-18T22:06:55.740Z"
+  },
+  "data_devolucao": {
+    "$date": "2023-05-18T22:06:55.740Z"
+  },
+  "multa": 0,
+  "status": "devolvido",
+  "createAt": {
+    "$date": "2023-04-18T22:06:55.750Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f325e93cbe46c5f39c971"
+  },
+  "client": {
+    "$oid": "643def20ff2394e1637b6127"
+  },
+  "book": {
+    "$oid": "643ddf0ac53cb22ce09f3cae"
+  },
+  "data_emprestimo": {
+    "$date": "2023-04-19T00:14:22.491Z"
+  },
+  "data_devolucao": {
+    "$date": "2023-05-19T00:14:22.492Z"
+  },
+  "multa": 0,
+  "status": "emprestado",
+  "createAt": {
+    "$date": "2023-04-19T00:14:22.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f328a93cbe46c5f39c973"
+  },
+  "client": {
+    "$oid": "643def6bff2394e1637b612b"
+  },
+  "book": {
+    "$oid": "643ddfffc53cb22ce09f3cb4"
+  },
+  "data_emprestimo": {
+    "$date": "2023-04-19T00:14:22.491Z"
+  },
+  "data_devolucao": {
+    "$date": "2023-05-19T00:14:22.492Z"
+  },
+  "multa": 0,
+  "status": "devolvido",
+  "createAt": {
+    "$date": "2023-04-19T00:14:22.503Z"
+  },
+  "__v": 0
+}]
